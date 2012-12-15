@@ -44,7 +44,7 @@ LaTeXila is an Integrated LaTeX Environment for GNOME. The main features are:
 
 %install
 %makeinstall_std
-%find_lang %{name} --with-help
+%find_lang %{name} --with-gnome --all-name
 
 %files -f %{name}.lang
 %doc AUTHORS COPYING README NEWS HACKING
