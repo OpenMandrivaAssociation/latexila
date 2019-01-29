@@ -19,7 +19,13 @@ BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  pkgconfig(gsettings-desktop-schemas)
 BuildRequires:  pkgconfig(gtk+-3.0)
-BuildRequires:  pkgconfig(gtksourceview-3.0)
+BuildRequires:  pkgconfig(gtksourceview-4
+BuildRequires:	pkgconfig(gtkspell3-3.0)
+BuildRequires:	pkgconfig(gspell-1)
+BuildRequires:	pkgconfig(gtef-2)
+BuildRequires:	pkgconfig(tepl-4)
+BuildRequires:	gnome-common)
+BuildRequires:	pkgconfig(gee-0.8)
 
 Requires:	hicolor-icon-theme
 Requires:	gsettings-desktop-schemas
