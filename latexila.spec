@@ -2,8 +2,8 @@
 
 Summary:	Integrated LaTeX Environment for the GNOME desktop
 Name:		latexila
-Version:	2.6.2
-Release:	2
+Version:	3.27.1
+Release:	1
 Group:		Publishing
 License:	GPLv3+
 URL:		http://projects.gnome.org/latexila/
