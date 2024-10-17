@@ -6,7 +6,7 @@ Version:	2.6.2
 Release:	2
 Group:		Publishing
 License:	GPLv3+
-URL:		http://projects.gnome.org/latexila/
+URL:		https://projects.gnome.org/latexila/
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{url_ver}/%{name}-%{version}.tar.xz
 
 BuildRequires:	intltool
