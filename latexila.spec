@@ -9,6 +9,11 @@ License:	GPLv3+
 URL:		https://projects.gnome.org/latexila/
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{url_ver}/%{name}-%{version}.tar.xz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	intltool
 BuildRequires:	itstool
 BuildRequires:	libxml2-utils
